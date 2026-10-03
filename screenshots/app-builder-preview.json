@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "House Price Prediction",
+      "hasCanvas": false,
+      "bodyTextLen": 760,
+      "bodyTextHash": "7b1ee5f05a93dbef1617ed096eb4052c6e0a25d048aedac2687772d84ca55332",
+      "bodyTextPrefix": "Skip to content House Price Prediction Home Predict Dashboard Ab",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "House Price Prediction",
+      "hasCanvas": false,
+      "bodyTextLen": 800,
+      "bodyTextHash": "b19d176dca2616cf2fdd032cdb563b61db9e3cf428bc6cf46c58b157fc9ebe62",
+      "bodyTextPrefix": "Skip to content Estimates for 10 Indian cities — enter details a",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
